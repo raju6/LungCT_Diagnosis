@@ -10,3 +10,4 @@ This repository processes CT scan images of human lungs available as DICOM image
 ![Capture](https://user-images.githubusercontent.com/64326560/89045403-196fb700-d369-11ea-9934-3fe9e4b62d9e.PNG)
 ## 3D visualisation of a patient
 ![3d_1](https://user-images.githubusercontent.com/64326560/89045539-52a82700-d369-11ea-965d-c19175cf8dba.png)
+![lungs_3d](https://user-images.githubusercontent.com/64326560/89045664-82572f00-d369-11ea-8aac-ddee647848cb.png)
