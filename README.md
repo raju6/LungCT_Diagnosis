@@ -11,3 +11,5 @@ This repository processes CT scan images of human lungs available as DICOM image
 ## 3D visualisation of a patient
 ![3d_1](https://user-images.githubusercontent.com/64326560/89045539-52a82700-d369-11ea-965d-c19175cf8dba.png)
 ![lungs_3d](https://user-images.githubusercontent.com/64326560/89045664-82572f00-d369-11ea-8aac-ddee647848cb.png)
+## The dataset can be downloaded from the following link -
+https://portal.gdc.cancer.gov/
